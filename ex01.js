@@ -1,0 +1,3 @@
+function printChristmasTree(n, character){
+    
+}
